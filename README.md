@@ -167,11 +167,11 @@ Contents of this repository are restricted to only non-commercial research purpo
 If you use any of the datasets, models or code modules, please cite the following paper:
 
 ```
-@article{madasu2023mukhyansh,
+@inproceedings{madasu2023mukhyansh,
   title={Mukhyansh: A Headline Generation Dataset for Indic Languages},
   author={Madasu, Lokesh and Kanumolu, Gopichand and Surange, Nirmal and Shrivastava, Manish},
-  journal={arXiv preprint arXiv:2311.17743},
-  url= "https://arxiv.org/abs/2311.17743",
+  booktitle={Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation},
+  pages={620--634},
   year={2023}
 }
 
